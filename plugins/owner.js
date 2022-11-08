@@ -52,7 +52,7 @@ let cap = `Hay kak @${await m.sender.split('@')[0]}, itu nomor ownerku jangan di
 'mediaType':2,
 'previewType':'pdf',
 'title':`💌 Ultah Owner: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-'body':`⚘ by ᴹᴿ᭄ King Of Bear ×፝֟͜×`,
+'body':`⚘ by ᴹᴿ᭄ Vincentt ? ×፝֟͜×`,
 'thumbnail': await(await fetch(thumb)).buffer(),
 'sourceUrl':'https://youtu.be/hklv-Ysqqac'}},
 'caption':cap,
