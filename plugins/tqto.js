@@ -20,7 +20,7 @@ Terimakasih Juga Untuk Kang Banned:
 ─────────────────────
 • God
 • My ortu
-• King Of Bear ( Me )
+• Vincentt ? ( Me )
 • Nurutomo
 • Adiwajshing
 • Ariffb
@@ -59,7 +59,7 @@ Terimakasih Juga Untuk Kang Banned:
   let buttonMessage= {
 'document':{'url':'https://youtu.be/hklv-Ysqqac'},
 'mimetype':global.ddocx,
-'fileName':'「 ᴹᴿ᭄ King Of Bear ×፝֟͜× 」',
+'fileName':'「 ᴹᴿ᭄ Vincentt ? ×፝֟͜× 」',
 'fileLength':fsizedoc,
 'pageCount':fpagedoc,
 'contextInfo':{
@@ -70,7 +70,7 @@ Terimakasih Juga Untuk Kang Banned:
 'mediaType':2,
 'previewType':'pdf',
 'title':`💌 Ultah Owner: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-'body':`⚘ by ᴹᴿ᭄ King Of Bear ×፝֟͜×`,
+'body':`⚘ by ᴹᴿ᭄ Vincentt ? ×፝֟͜×`,
 'thumbnail':await(await fetch('https://telegra.ph/file/6ab4daac226292a112540.jpg')).buffer(),
 'sourceUrl':'https://youtu.be/hklv-Ysqqac'}},
 'caption':cap,
