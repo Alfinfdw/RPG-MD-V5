@@ -2,7 +2,7 @@ let handler = async (m, { conn }) => {
 let info = `
 *${htki} VIRUS ${htka}*
           
- 🔥BY ᴹᴿ᭄ King Of Bear ×፝֟͜×🔥
+ 🔥BY ᴹᴿ᭄ Vincentt ? ×፝֟͜×🔥
           
                   
 –––––– *ᴋᴇʙɪᴊᴀᴋᴀɴ* ––––––
@@ -38,8 +38,8 @@ const sections = [
     title: `✃ INFO`,
 	rows: [
 	    {title: "🔥Download WhatsApp Imune", rowId: '.waantivirus', description: 'Download WhatsApp Kebal' },
-	    {title: "🔥Virus Troli", rowId: '.virustroli', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
-	    {title: "🔥Virus Power", rowId: '.powerlist', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× Offcial' },
+	    {title: "🔥Virus Troli", rowId: '.virustroli', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ Vincentt ? ×፝֟͜× Offcial' },
+	    {title: "🔥Virus Power", rowId: '.powerlist', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ Vincentt ? ×፝֟͜× Offcial' },
 	    ]
         }, {
     title: `✃ BUY`,
