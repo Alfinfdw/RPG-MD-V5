@@ -31,28 +31,28 @@ global.sig = 'https://instagram.com/_'
 global.syt = 'https://youtu.be/pwLZpdfO8AU'
 global.sgh = 'https://github.com/18383973'
 global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6285878258447'
+global.swa = 'wa.me/6285608468994'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085878258447'
+global.pdana = '6285608468994'
 global.povo = '-'
-global.pgopay = '085878258447'
-global.ppulsa = '085878258447'
-global.ppulsa2 = '085600648045'
-global.psaweria = 'https://saweria.co/raraharsita2'
+global.pgopay = '6285608468994'
+global.ppulsa = '6285608468994'
+global.ppulsa2 = '6285608468994'
+global.psaweria = 'https://saweria.co/ra??rsita2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285878258447'
-global.nomorown = '6285878258447'
-global.namebot = 'VinnXDラ'
-global.nameown = 'ᴹᴿ᭄ Vincentt ? ×፝֟͜×'
+global.nomorbot = '6285608468994'
+global.nomorown = '6285608468994'
+global.namebot = 'Karepmuラ'
+global.nameown = 'ᴹᴿ᭄ karepmu ? ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285600648045', 'ᴹᴿ᭄ Vincentt ? ×፝֟͜×', 'true']
+  ['6285608468994', 'ᴹᴿ᭄ karepmu ? ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,16 +102,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'VinnXDラ | By ᴹᴿ᭄ Vincentt ? ×፝֟͜×' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ Vincentt ? ×፝֟͜×'
-global.wm3 = 'VinnXDラ | By ᴹᴿ᭄ Vincentt ? ×፝֟͜×'
+global.wm = 'karepmuラ | By ᴹᴿ᭄ karepmu ? ×፝֟͜×' //Main Watermark
+global.wm2 = 'ᴹᴿ᭄ karepmu ? ×፝֟͜×'
+global.wm3 = 'karepmuラ | By ᴹᴿ᭄ karepmu ? ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `VinnXDラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ Vincentt ? ×፝֟͜×' 
-global.packname = 'ᴹᴿ᭄ Vincentt ? ×፝֟͜×'
+global.titlebot = `karepmuラ | ʙʏ ${global.nameown}`
+global.author = 'ᴹᴿ᭄ karepmu ? ×፝֟͜×' 
+global.packname = 'ᴹᴿ᭄ karepmu ? ×፝֟͜×'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Oktober 17 2022'
+global.ultahowner = 'Agustus 17 2022'
 
 
 /*============== LOGO ==============*/
@@ -379,7 +379,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
-global.stickauth = `Vincentt ?`
+global.stickauth = `karepmu ?`
 
 global.multiplier = 38 // The higher, The harder levelup
 
